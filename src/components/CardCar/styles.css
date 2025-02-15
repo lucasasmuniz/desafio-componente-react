@@ -1,0 +1,17 @@
+.card{
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #3C9AF0;
+    border-radius: 10px;
+}
+
+.card img{
+    width: 260px;
+    height: 195px;
+}
+
+.card h3{
+    font-size: 16px;
+    font-weight: 700;
+    color: #5E5E5E;
+}
