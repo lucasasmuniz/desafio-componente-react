@@ -1,0 +1,11 @@
+.dsct-comment{
+    background-color: #FFF;
+    border: 1px solid #3C9AF0;
+    border-radius: 12px;
+    padding: 25px 20px;
+}
+
+.dsct-comment p{
+    font-size: 16px;
+    color: #3C9AF0;
+}
